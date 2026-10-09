@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "GodModeAI2025/AI_first_CRM",
+    "commit": "0ce5cef298ae9bb335811366b00d6844b8099bb4",
+    "files": [
+      "README.md",
+      "ai-first-crm/SKILL.md",
+      "ai-first-crm/references/wiki-contract.md",
+      "ai-first-crm/references/crm-contract.md",
+      "ai-first-crm/references/crm-data.md"
+    ]
+  }
+]
